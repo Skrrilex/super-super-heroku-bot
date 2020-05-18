@@ -1,0 +1,13 @@
+{
+  " nombre " : " Rocket " ,
+  " descripción " : " bot de moderacion diversion ect.. " ,
+  " versión " : " 1.0.0 " ,
+  " main " : " bot.js " ,
+  " guiones " : {
+    " start " : " nodo bot.js "
+  },
+  " dependencias " : {
+    " discord.js " : " 11.1.0 " ,
+    " solicitud " : " 2.81.0 "
+  }
+}
